@@ -1,0 +1,66 @@
+[
+  {
+    "title": "HAN Green Office kennisbank",
+    "description": "Hoofdpagina van de kennisbank van de HAN Green Office met informatie en inspiratie over duurzame thema's.",
+    "type": "artikel",
+    "tags": ["duurzaamheid", "kennisbank"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/",
+    "file": null
+  },
+  {
+    "title": "Economie, management & recht",
+    "description": "Breng duurzaamheid in de economische en juridische vakgebieden met artikelen, video's en podcasts.",
+    "type": "artikel",
+    "tags": ["economie", "management", "recht"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/economie-management-recht/",
+    "file": null
+  },
+  {
+    "title": "Gedrag en maatschappij",
+    "description": "Bronnen over duurzaam gedrag en maatschappelijke verandering.",
+    "type": "artikel",
+    "tags": ["gedrag", "maatschappij"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/gedrag-en-maatschappij/",
+    "file": null
+  },
+  {
+    "title": "Gezondheid",
+    "description": "Duurzame onderwerpen binnen gezondheidszorg en welzijn.",
+    "type": "artikel",
+    "tags": ["gezondheid", "welzijn"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/gezondheid/",
+    "file": null
+  },
+  {
+    "title": "Informatica, media & communicatie",
+    "description": "Inspiratie en bronnen over duurzaamheid binnen ICT en media.",
+    "type": "artikel",
+    "tags": ["informatica", "media", "communicatie"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/informatica-en-communicatie/",
+    "file": null
+  },
+  {
+    "title": "Onderwijs en opleiden",
+    "description": "Lesmateriaal en literatuur voor duurzaamheid in onderwijs.",
+    "type": "artikel",
+    "tags": ["onderwijs", "opleiden"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/onderwijs-en-opleiden/",
+    "file": null
+  },
+  {
+    "title": "Sport en bewegen",
+    "description": "Bronnen over duurzaamheid in sport en bewegingsstudies.",
+    "type": "artikel",
+    "tags": ["sport", "bewegen"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/sport-en-bewegen/",
+    "file": null
+  },
+  {
+    "title": "Techniek en life sciences",
+    "description": "Artikelen, video's en podcasts over duurzaamheid in techniek en life sciences.",
+    "type": "artikel",
+    "tags": ["techniek", "life sciences"],
+    "url": "https://blog3.han.nl/greenoffice/kennisbank/techniek-en-life-sciences/",
+    "file": null
+  }
+]

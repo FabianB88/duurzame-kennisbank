@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Duurzame kennisbank</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="logo">Duurzame kennisbank</h1>
+        <nav class="nav-links">
+          <a href="/">Home</a>
+          <a href="/resources">Alle bronnen</a>
+          <a href="/upload">Upload</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <section id="search-section" class="search-section">
+        <h2>Wat zoek je?</h2>
+        <input
+          type="text"
+          id="search-input"
+          class="search-input"
+          placeholder="Beschrijf je vraag..."
+        />
+        <button id="search-button" class="primary-btn">Zoeken</button>
+        <div id="type-select" class="type-select hidden">
+          <p>Kies een type bron:</p>
+          <div class="type-buttons">
+            <button class="type-btn" data-type="">Alle</button>
+            <button class="type-btn" data-type="artikel">Artikel / Boek</button>
+            <button class="type-btn" data-type="podcast">Podcast</button>
+            <button class="type-btn" data-type="video">Video</button>
+            <button class="type-btn" data-type="lesmateriaal">Lesmateriaal</button>
+            <button class="type-btn" data-type="contact">Contact</button>
+          </div>
+        </div>
+        <div id="search-results" class="results"></div>
+      </section>
+    </main>
+    <script src="/static/script.js"></script>
+  </body>
+</html>
