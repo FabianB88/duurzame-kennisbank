@@ -3,7 +3,10 @@
     "title": "HAN Green Office kennisbank",
     "description": "Hoofdpagina van de kennisbank van de HAN Green Office met informatie en inspiratie over duurzame thema's.",
     "type": "artikel",
-    "tags": ["duurzaamheid", "kennisbank"],
+    "tags": [
+      "duurzaamheid",
+      "kennisbank"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/",
     "file": null
   },
@@ -11,7 +14,11 @@
     "title": "Economie, management & recht",
     "description": "Breng duurzaamheid in de economische en juridische vakgebieden met artikelen, video's en podcasts.",
     "type": "artikel",
-    "tags": ["economie", "management", "recht"],
+    "tags": [
+      "economie",
+      "management",
+      "recht"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/economie-management-recht/",
     "file": null
   },
@@ -19,7 +26,10 @@
     "title": "Gedrag en maatschappij",
     "description": "Bronnen over duurzaam gedrag en maatschappelijke verandering.",
     "type": "artikel",
-    "tags": ["gedrag", "maatschappij"],
+    "tags": [
+      "gedrag",
+      "maatschappij"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/gedrag-en-maatschappij/",
     "file": null
   },
@@ -27,7 +37,10 @@
     "title": "Gezondheid",
     "description": "Duurzame onderwerpen binnen gezondheidszorg en welzijn.",
     "type": "artikel",
-    "tags": ["gezondheid", "welzijn"],
+    "tags": [
+      "gezondheid",
+      "welzijn"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/gezondheid/",
     "file": null
   },
@@ -35,7 +48,11 @@
     "title": "Informatica, media & communicatie",
     "description": "Inspiratie en bronnen over duurzaamheid binnen ICT en media.",
     "type": "artikel",
-    "tags": ["informatica", "media", "communicatie"],
+    "tags": [
+      "informatica",
+      "media",
+      "communicatie"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/informatica-en-communicatie/",
     "file": null
   },
@@ -43,7 +60,10 @@
     "title": "Onderwijs en opleiden",
     "description": "Lesmateriaal en literatuur voor duurzaamheid in onderwijs.",
     "type": "artikel",
-    "tags": ["onderwijs", "opleiden"],
+    "tags": [
+      "onderwijs",
+      "opleiden"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/onderwijs-en-opleiden/",
     "file": null
   },
@@ -51,7 +71,10 @@
     "title": "Sport en bewegen",
     "description": "Bronnen over duurzaamheid in sport en bewegingsstudies.",
     "type": "artikel",
-    "tags": ["sport", "bewegen"],
+    "tags": [
+      "sport",
+      "bewegen"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/sport-en-bewegen/",
     "file": null
   },
@@ -59,8 +82,566 @@
     "title": "Techniek en life sciences",
     "description": "Artikelen, video's en podcasts over duurzaamheid in techniek en life sciences.",
     "type": "artikel",
-    "tags": ["techniek", "life sciences"],
+    "tags": [
+      "techniek",
+      "life sciences"
+    ],
     "url": "https://blog3.han.nl/greenoffice/kennisbank/techniek-en-life-sciences/",
+    "file": null
+  },
+  {
+    "title": "Circulair innoveren en duurzaam ondernemen",
+    "description": "Circulair innoveren en duurzaam ondernemen",
+    "type": "artikel",
+    "tags": [
+      "economie",
+      "management",
+      "recht",
+      "literatuur"
+    ],
+    "url": "https://blog3.han.nl/greenoffice/wp-content/uploads/sites/18/2023/05/9789001738563_fragm3.pdf",
+    "file": null
+  },
+  {
+    "title": "Duurzaam ondernemen in samenwerking met Unicef",
+    "description": "Duurzaam ondernemen in samenwerking met Unicef",
+    "type": "artikel",
+    "tags": [
+      "economie",
+      "management",
+      "recht",
+      "literatuur"
+    ],
+    "url": "https://www.unicef.nl/help-mee/steun-samen/bedrijf/duurzaam-ondernemen-en-unicef",
+    "file": null
+  },
+  {
+    "title": "Starten met een duurzame bedrijfsvoering",
+    "description": "Starten met een duurzame bedrijfsvoering",
+    "type": "artikel",
+    "tags": [
+      "economie",
+      "management",
+      "recht",
+      "literatuur"
+    ],
+    "url": "https://ondernemersplein.kvk.nl/starten-met-een-duurzame-bedrijfsvoering/",
+    "file": null
+  },
+  {
+    "title": "Duurzame bedrijfsvoering vanuit de Rijksdienst voor ondernemend Nederland",
+    "description": "Duurzame bedrijfsvoering vanuit de Rijksdienst voor ondernemend Nederland",
+    "type": "artikel",
+    "tags": [
+      "economie",
+      "management",
+      "recht",
+      "literatuur"
+    ],
+    "url": "https://www.rvo.nl/onderwerpen/over-ons/organisatie/duurzame-bedrijfsvoering",
+    "file": null
+  },
+  {
+    "title": "Het belang van duurzaam management",
+    "description": "Het belang van duurzaam management",
+    "type": "artikel",
+    "tags": [
+      "economie",
+      "management",
+      "recht",
+      "literatuur"
+    ],
+    "url": "https://pure.uva.nl/ws/files/1966967/25820_141fulltext.pdf",
+    "file": null
+  },
+  {
+    "title": "Motivatie voor duurzaamheid en de impact van onze kledingconsumptie",
+    "description": "Motivatie voor duurzaamheid en de impact van onze kledingconsumptie",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.uva.nl/shared-content/faculteiten/nl/faculteit-der-maatschappij-en-gedragswetenschappen/nieuws/2022/05/er-gaapt-een-kloof-tussen-onze-motivatie-om-duurzaam-te-zijn-en-de-impact-van-onze-kledingconsumptie.html",
+    "file": null
+  },
+  {
+    "title": "Hoe duurzaamheid een duurzame samenleving in de weg staat",
+    "description": "Hoe duurzaamheid een duurzame samenleving in de weg staat",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://decorrespondent.nl/2898/hoe-duurzaamheid-een-duurzame-samenleving-in-de-weg-staat-en-wat-eraan-te-doen/562aef62-fe1b-0ffd-0181-e220a42202d4",
+    "file": null
+  },
+  {
+    "title": "Wetenschap voedt beleid voor duurzame maatschappij",
+    "description": "Wetenschap voedt beleid voor duurzame maatschappij",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.wur.nl/nl/artikel/wetenschap-voedt-beleid-voor-duurzame-maatschappij.htm",
+    "file": null
+  },
+  {
+    "title": "Trends en ontwikkelingen in duurzaamheid",
+    "description": "Trends en ontwikkelingen in duurzaamheid",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.qsn.nl/blogs/ontwikkelingen-en-megatrends-in-duurzaamheid/",
+    "file": null
+  },
+  {
+    "title": "Inzichten en oplossingen voor een duurzame toekomst",
+    "description": "Inzichten en oplossingen voor een duurzame toekomst",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.universiteitleiden.nl/wetenschapsdossiers/duurzame-toekomst",
+    "file": null
+  },
+  {
+    "title": "Doing good loont",
+    "description": "Doing good loont",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://marketresponse.nl/resources/doing-good-loont/",
+    "file": null
+  },
+  {
+    "title": "Hoe ontwerp je een klimaat neutrale samenleving?",
+    "description": "Hoe ontwerp je een klimaat neutrale samenleving?",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.change.inc/circulaire-economie/hoe-ontwerp-je-een-klimaatneutrale-samenleving-38438",
+    "file": null
+  },
+  {
+    "title": "Duurzame samenleving en de betekenis daarvan voor ouderen",
+    "description": "Duurzame samenleving en de betekenis daarvan voor ouderen",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://gerontijdschrift.nl/artikelen/redactioneel-duurzame-samenleving-en-de-betekenis-daarvan-voor-ouderen/",
+    "file": null
+  },
+  {
+    "title": "Duurzaam maakt gelukkig",
+    "description": "Duurzaam maakt gelukkig",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.tijdschriftpositievepsychologie.nl/nieuws/duurzaam-gedrag-maakt-gelukkig",
+    "file": null
+  },
+  {
+    "title": "Waarom positieve communicatie over duurzaamheid beter werkt",
+    "description": "Waarom positieve communicatie over duurzaamheid beter werkt",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.guusjenagels.nl/post/waarom-positieve-communicatie-over-duurzaamheid-beter-werkt",
+    "file": null
+  },
+  {
+    "title": "De psychologie van duurzaam gedrag",
+    "description": "De psychologie van duurzaam gedrag",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.hva.nl/kmr/gedeelde-content/nieuws/nieuwsberichten/2021/05/de-klimaatspagaat-over-de-psychologie-van-duurzaam-gedrag.html",
+    "file": null
+  },
+  {
+    "title": "Wat motiveert mensen om duurzaam gedrag te vertonen?",
+    "description": "Wat motiveert mensen om duurzaam gedrag te vertonen?",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.rug.nl/gmw/short-reads/expertisegroep-omgevingspsychologie_-wat-motiveert-mensen-om-duurzaam-gedrag-te-vertonen_",
+    "file": null
+  },
+  {
+    "title": "Een duurzame samenleving kan onmogelijk saai zijn",
+    "description": "Een duurzame samenleving kan onmogelijk saai zijn",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://tenstripes.nl/duurzaam-consumentengedrag/",
+    "file": null
+  },
+  {
+    "title": "Over duurzamer consumentengedrag",
+    "description": "Over duurzamer consumentengedrag",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.marketingfacts.nl/berichten/voorn-praat-marketing-2-over-duurzamer-consumentengedrag/",
+    "file": null
+  },
+  {
+    "title": "Milieuvriendelijk gedrag stimuleren via sociale normen?",
+    "description": "Milieuvriendelijk gedrag stimuleren via sociale normen?",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://www.swocc.nl/kennisbank-item/milieuvriendelijk-gedrag-stimuleren-via-sociale-normen/",
+    "file": null
+  },
+  {
+    "title": "De grootste bedreiging voor het klimaat? Jouw brein!",
+    "description": "De grootste bedreiging voor het klimaat? Jouw brein!",
+    "type": "artikel",
+    "tags": [
+      "gedrag",
+      "maatschappij",
+      "literatuur"
+    ],
+    "url": "https://scientias.nl/grootste-bedreiging-klimaat-brein/",
+    "file": null
+  },
+  {
+    "title": "Voeding, gezondheid en duurzaamheid: Een blik vooruit",
+    "description": "Voeding, gezondheid en duurzaamheid: Een blik vooruit",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.gezondheidsraad.nl/documenten/adviezen/2020/05/20/voeding-gezondheid-en-duurzaamheid-een-blik-vooruit",
+    "file": null
+  },
+  {
+    "title": "Gezonde en duurzame voeding",
+    "description": "Gezonde en duurzame voeding",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.rivm.nl/rivm/kennis-en-kunde/expertisevelden/gezonde-en-duurzame-voeding",
+    "file": null
+  },
+  {
+    "title": "Duurzaamheid is eerlijk delen van welvaart, gezondheid en geluk",
+    "description": "Duurzaamheid is eerlijk delen van welvaart, gezondheid en geluk",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.duurzaamnieuws.nl/duurzaamheid-is-eerlijk-delen-van-welvaart-gezondheid-en-geluk/",
+    "file": null
+  },
+  {
+    "title": "Duurzaamheid en gezondheid",
+    "description": "Duurzaamheid en gezondheid",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://dgmr.nl/adviesdiensten/duurzaamheid-en-gezondheid/",
+    "file": null
+  },
+  {
+    "title": "Waarom duurzaamheid belangrijk is voor de voedingsdriehoek",
+    "description": "Waarom duurzaamheid belangrijk is voor de voedingsdriehoek",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.gezondleven.be/themas/voeding/voedingsdriehoek/overige-producten/milieu",
+    "file": null
+  },
+  {
+    "title": "Duurzame zorg",
+    "description": "Duurzame zorg",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.zorgvoorbeter.nl/duurzame-zorg",
+    "file": null
+  },
+  {
+    "title": "Hoe de zorg kan verduurzamen",
+    "description": "Hoe de zorg kan verduurzamen",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.zorgvisie.nl/duurzaam-umcg-begin-waar-de-energie-al-is/",
+    "file": null
+  },
+  {
+    "title": "Kennisdossier duurzaamheid in de zorg",
+    "description": "Kennisdossier duurzaamheid in de zorg",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.waardigheidentrots.nl/tools/kennisdossier-duurzame-zorg/",
+    "file": null
+  },
+  {
+    "title": "Hoe eet je duurzaam en gezond?",
+    "description": "Hoe eet je duurzaam en gezond?",
+    "type": "artikel",
+    "tags": [
+      "gezondheid",
+      "literatuur"
+    ],
+    "url": "https://www.voedingscentrum.nl/nl/gezond-eten-met-de-schijf-van-vijf/hoe-eet-je-gezond-en-duurzaam.aspx",
+    "file": null
+  },
+  {
+    "title": "Media en reclame moeten vergroenen",
+    "description": "Media en reclame moeten vergroenen",
+    "type": "artikel",
+    "tags": [
+      "informatica",
+      "communicatie",
+      "literatuur"
+    ],
+    "url": "https://www.marketingtribune.nl/media/nieuws/2022/01/media-en-reclame-moeten-vergroenen/index.xml",
+    "file": null
+  },
+  {
+    "title": "Hoe verkoop je duurzaamheid? Best practices",
+    "description": "Hoe verkoop je duurzaamheid? Best practices",
+    "type": "artikel",
+    "tags": [
+      "informatica",
+      "communicatie",
+      "literatuur"
+    ],
+    "url": "https://www.frankwatching.com/archive/2022/11/02/verkopen-duurzaamheid/",
+    "file": null
+  },
+  {
+    "title": "5 voorwaarden voor geloofwaardige communicatie over duurzaamheid",
+    "description": "5 voorwaarden voor geloofwaardige communicatie over duurzaamheid",
+    "type": "artikel",
+    "tags": [
+      "informatica",
+      "communicatie",
+      "literatuur"
+    ],
+    "url": "https://www.frankwatching.com/archive/2022/05/18/communicatie-duurzaamheid/",
+    "file": null
+  },
+  {
+    "title": "Duurzaam communiceren zonder greenwashing",
+    "description": "Duurzaam communiceren zonder greenwashing",
+    "type": "artikel",
+    "tags": [
+      "informatica",
+      "communicatie",
+      "literatuur"
+    ],
+    "url": "https://www.frankwatching.com/archive/2021/06/03/duurzaam-communiceren-zonder-greenwashing/",
+    "file": null
+  },
+  {
+    "title": "Duurzaamheid binnen universiteiten en hogescholen",
+    "description": "Duurzaamheid binnen universiteiten en hogescholen",
+    "type": "artikel",
+    "tags": [
+      "onderwijs",
+      "literatuur"
+    ],
+    "url": "https://biblio.ugent.be/publication/8569483/file/8569487",
+    "file": null
+  },
+  {
+    "title": "Klimaateducatie in het hoger onderwijs",
+    "description": "Klimaateducatie in het hoger onderwijs",
+    "type": "artikel",
+    "tags": [
+      "onderwijs",
+      "literatuur"
+    ],
+    "url": "https://biblio.ugent.be/publication/8732312/file/8732315",
+    "file": null
+  },
+  {
+    "title": "Leren van de natuur en met de gemeenschap",
+    "description": "Leren van de natuur en met de gemeenschap",
+    "type": "artikel",
+    "tags": [
+      "onderwijs",
+      "literatuur"
+    ],
+    "url": "https://academievoorduurzaamonderwijs.nl/norway-learning-in-nature-and-with-the-community/",
+    "file": null
+  },
+  {
+    "title": "Belangrijke vragen over het klimaatonderwijs",
+    "description": "Belangrijke vragen over het klimaatonderwijs",
+    "type": "artikel",
+    "tags": [
+      "onderwijs",
+      "literatuur"
+    ],
+    "url": "https://academievoorduurzaamonderwijs.nl/wat-kan-de-kracht-van-verbeelding-doen/",
+    "file": null
+  },
+  {
+    "title": "Online onderwijs en duurzaamheid",
+    "description": "Online onderwijs en duurzaamheid",
+    "type": "artikel",
+    "tags": [
+      "onderwijs",
+      "literatuur"
+    ],
+    "url": "https://research.ou.nl/ws/files/7877027/2008_F_Paquita_Perez_Salgado_Online_Onderwijs_en_duurzaamheid_oratie_OU.pdf",
+    "file": null
+  },
+  {
+    "title": "Toegepast gedragsonderzoek naar het motiveren en faciliteren van emissievrij vervoer",
+    "description": "Toegepast gedragsonderzoek naar het motiveren en faciliteren van emissievrij vervoer",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://pure.hva.nl/ws/portalfiles/portal/24272170/Van_dieselbus_naar_vrachtfiets.pdf",
+    "file": null
+  },
+  {
+    "title": "Oscillerende lichtmotor gerealiseerd door foto thermische oplosmiddelverdamping",
+    "description": "Oscillerende lichtmotor gerealiseerd door foto thermische oplosmiddelverdamping",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://www.nature.com/articles/s41467-022-33374-x",
+    "file": null
+  },
+  {
+    "title": "Fysieke analyse van de milieueffecten van een aanvullende fotovoltaïsche elektriciteitscentrale voor de visserij",
+    "description": "Fysieke analyse van de milieueffecten van een aanvullende fotovoltaïsche elektriciteitscentrale voor de visserij",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://link.springer.com/content/pdf/10.1007/s11356-022-18930-8.pdf",
+    "file": null
+  },
+  {
+    "title": "De transitie naar duurzaamheid in landbouw en voedsel systemen",
+    "description": "De transitie naar duurzaamheid in landbouw en voedsel systemen",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://www.sciencedirect.com/science/article/pii/S2214317318301367",
+    "file": null
+  },
+  {
+    "title": "Onderzoek naar de rol van intelligentie voor duurzaamheid: inzichten uit het Smart Grid-domein",
+    "description": "Onderzoek naar de rol van intelligentie voor duurzaamheid: inzichten uit het Smart Grid-domein",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://link.springer.com/content/pdf/10.1007/s11625-018-0555-4.pdf",
+    "file": null
+  },
+  {
+    "title": "Communicatie over duurzame consumptie: Een overzicht van een opkomend onderzoeksgebied",
+    "description": "Communicatie over duurzame consumptie: Een overzicht van een opkomend onderzoeksgebied",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://www.sciencedirect.com/science/article/pii/S0959652621010994",
+    "file": null
+  },
+  {
+    "title": "Vooruitgang in de behandeling en verwerking van duurzaam elektronisch afval: Een overzicht van metaal technologieën voor extractie en terugwinning",
+    "description": "Vooruitgang in de behandeling en verwerking van duurzaam elektronisch afval: Een overzicht van metaal technologieën voor extractie en terugwinning",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://pubs.rsc.org/en/content/getauthorversionpdf/C8GC03688H",
+    "file": null
+  },
+  {
+    "title": "7 duurzame innovaties om in de gaten te houden",
+    "description": "7 duurzame innovaties om in de gaten te houden",
+    "type": "artikel",
+    "tags": [
+      "techniek",
+      "life sciences",
+      "literatuur"
+    ],
+    "url": "https://journeytozerostories.neste.com/sustainable-innovations",
     "file": null
   }
 ]
