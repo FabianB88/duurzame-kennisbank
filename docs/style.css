@@ -1,0 +1,192 @@
+/*
+     * Baseline styles for the Duurzame Kennisbank interface.
+     *
+     * We define a few CSS custom properties at the root level to make it easy
+     * to adjust colours across the application. The chosen palette loosely
+     * reflects HAN's branding with a bold primary colour and subtle hover
+     * variations.
+     */
+
+    :root {
+      --primary-color: #c5004a;
+      --primary-hover-color: #a0003a;
+      --bg-color: #f9f9f9;
+      --text-color: #333;
+      --border-color: #ddd;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: var(--bg-color);
+      color: var(--text-color);
+      min-height: 100vh;
+    }
+
+    /* Header styling */
+    .site-header {
+      background: var(--primary-color);
+      color: #fff;
+    }
+    .site-header .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 1rem;
+    }
+    .logo {
+      margin: 0.2rem 0;
+      font-size: 1.6rem;
+      font-weight: bold;
+    }
+    .nav-links {
+      margin-top: 0.5rem;
+    }
+    .nav-links a {
+      color: #fff;
+      margin: 0 0.5rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .nav-links a:hover {
+      text-decoration: underline;
+    }
+
+    /* General layout */
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+
+    h2 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+      font-size: 1.4rem;
+    }
+
+    /* Forms */
+    form label {
+      display: block;
+      margin-bottom: 0.8rem;
+      font-weight: bold;
+    }
+    form input[type="text"],
+    form input[type="url"],
+    form input[type="file"],
+    form textarea,
+    form select {
+      width: 100%;
+      padding: 0.5rem;
+      margin-top: 0.3rem;
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
+      font-size: 1rem;
+    }
+    form textarea {
+      resize: vertical;
+    }
+    .primary-btn {
+      background: var(--primary-color);
+      color: #fff;
+      border: none;
+      padding: 0.6rem 1.2rem;
+      font-size: 1rem;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-top: 0.5rem;
+    }
+    .primary-btn:hover {
+      background: var(--primary-hover-color);
+    }
+
+    /* Search section */
+    .search-section {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    .search-input {
+      width: 100%;
+      max-width: 400px;
+      padding: 0.5rem;
+      font-size: 1rem;
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
+      margin-bottom: 0.5rem;
+    }
+    .type-select {
+      margin-top: 1rem;
+    }
+    .type-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.4rem;
+      margin-top: 0.5rem;
+    }
+    .type-btn {
+      background: var(--primary-color);
+      color: #fff;
+      border: none;
+      padding: 0.4rem 0.8rem;
+      font-size: 0.9rem;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .type-btn:hover {
+      background: var(--primary-hover-color);
+    }
+    .hidden {
+      display: none;
+    }
+
+    /* Results list */
+    .results {
+      margin-top: 1.5rem;
+    }
+    .resource {
+      padding: 0.8rem 0;
+      border-bottom: 1px solid var(--border-color);
+    }
+    .resource:last-child {
+      border-bottom: none;
+    }
+    .resource h3 {
+      margin: 0 0 0.2rem 0;
+      font-size: 1.1rem;
+    }
+    .resource p {
+      margin: 0 0 0.5rem 0;
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+    .resource a {
+      color: var(--primary-color);
+      text-decoration: none;
+    }
+    .resource a:hover {
+      text-decoration: underline;
+    }
+
+    /* Tag filter on resources page */
+    .tag-filter {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+    }
+    .tag-filter button {
+      background: var(--primary-color);
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      padding: 0.3rem 0.6rem;
+      margin: 0.2rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+    }
+    .tag-filter button.active {
+      background: var(--primary-hover-color);
+    }
