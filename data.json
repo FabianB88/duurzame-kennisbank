@@ -644,4 +644,90 @@
     "url": "https://journeytozerostories.neste.com/sustainable-innovations",
     "file": null
   }
+,
+{
+  "title": "Economie, management & recht – YouTube playlist",
+  "description": "Playlist met video's over duurzaamheid in economie, management & recht",
+  "type": "video",
+  "tags": [
+    "economie",
+    "management",
+    "recht",
+    "youtube"
+  ],
+  "url": "https://www.youtube.com/playlist?list=PLAjRpPnhbzPTPpRHdrjA8zfGlJC-9-PIC",
+  "file": null
+},
+{
+  "title": "Gedrag en maatschappij – YouTube playlist",
+  "description": "Playlist met video's over duurzaamheid in gedrag en maatschappij",
+  "type": "video",
+  "tags": [
+    "gedrag",
+    "maatschappij",
+    "youtube"
+  ],
+  "url": "https://www.youtube.com/playlist?list=PLAjRpPnhbzPQS2gyrZbTctijy6Syz4tQv",
+  "file": null
+},
+{
+  "title": "Gezondheid – YouTube playlist",
+  "description": "Playlist met video's over duurzaamheid in gezondheid",
+  "type": "video",
+  "tags": [
+    "gezondheid",
+    "youtube"
+  ],
+  "url": "https://www.youtube.com/playlist?list=PLAjRpPnhbzPSwgy93fmEjS0Y8uxJru03_",
+  "file": null
+},
+{
+  "title": "Informatica, media & communicatie – YouTube playlist",
+  "description": "Playlist met video's over duurzaamheid in informatica, media & communicatie",
+  "type": "video",
+  "tags": [
+    "informatica",
+    "media",
+    "communicatie",
+    "youtube"
+  ],
+  "url": "https://www.youtube.com/playlist?list=PLAjRpPnhbzPQWkmvUASCoCx33sr1brom7",
+  "file": null
+},
+{
+  "title": "Onderwijs en opleiden – YouTube playlist",
+  "description": "Playlist met video's over duurzaamheid in onderwijs en opleiden",
+  "type": "video",
+  "tags": [
+    "onderwijs",
+    "opleiden",
+    "youtube"
+  ],
+  "url": "https://www.youtube.com/playlist?list=PLAjRpPnhbzPTMCGHAJJ5bMuocwBAjaTdw",
+  "file": null
+},
+{
+  "title": "Sport en bewegen – YouTube playlist",
+  "description": "Playlist met video's over duurzaamheid in sport en bewegen",
+  "type": "video",
+  "tags": [
+    "sport",
+    "bewegen",
+    "youtube"
+  ],
+  "url": "https://www.youtube.com/playlist?list=PLAjRpPnhbzPSD6M7pVCvyjiTwcQkKg_-V",
+  "file": null
+},
+{
+  "title": "Techniek en life sciences – YouTube playlist",
+  "description": "Playlist met video's over duurzaamheid in techniek en life sciences",
+  "type": "video",
+  "tags": [
+    "techniek",
+    "life sciences",
+    "youtube"
+  ],
+  "url": "https://www.youtube.com/playlist?list=PLAjRpPnhbzPT3wOerg2qi0PQLdMVRjhDL",
+  "file": null
+}
 ]
